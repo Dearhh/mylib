@@ -8,3 +8,4 @@ echo 103 > export
 cd gpio103
 echo "gpio103 is $(cat value)"
 cd ..
+test push
