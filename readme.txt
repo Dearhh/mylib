@@ -7,4 +7,5 @@ git commit -m "commit"
 
 git checkout dev
 
+git push origin dev
 git push -u origin master
